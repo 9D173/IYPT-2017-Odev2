@@ -48,9 +48,9 @@ yer  alan
 benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
 çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
 # Materyaller (Materials)
-2 metre 1.5 milimetre bakır tel<br>
-Kalem pil
-İnce kalem pil
+2 metre 1.5 milimetre çapında bakır tel<br>
+Kalem pil<br>
+İnce kalem pil<br>
 Düğme mıknatıs
 
 # Yöntem (Prodecure)
