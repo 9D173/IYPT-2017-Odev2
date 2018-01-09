@@ -8,10 +8,10 @@ Daha kapsamlı bir ödev için daha önce yapılmış 2. Yaptığınız çalış
 İYPT 2014 Yılının 9.sorusu olan ‘’WATER BOMBS’’ adlı soruyu seçmemizdeki amaç içi su dolu bir plastik balonun hangi koşullar altında daha kolay patladığını gözlemlemektir. Çünkü bazı durumlarda içi suyla doldurulmuş balonlar aldıkları darbeye rağmen deformasyon göstermez ve patlamazlar.Bunu en iyi çocukların yaz aylarında bahçelerde oynadıkları su balonu savaşı oyunu sırasında görürüz.Bazı çocukların arkadaşlarına attıkları su dolu balonlar karşı tarafa isabet etmesine rağmen patlamaz ve hedefi ıslatamadan geri tepmeyle sıçrar ama sağlam kalırlar. Biz bu durumu deneyimleyerek hangi şartlar su balonunun patlamasına yol açıyor veya patlamayı kolaylaştırıp zorlaştırıyor araştırıp öğrenmek istedik. Bu proje için : Plastik balonun çarpma anındaki esneme oranını neyin etkilediğini, çarpma yüzeyinin durumunun patlamaya etkisini, balonun yüzeye çarptığı andaki oluşan kuvvetin nelere bağlı olduğunu, çarpma anında oluşan bu kuvvetin nasıl bir basınç oluşturduğunu, ortaya çıkan basınçla balonun esnekliğinin etkileşimini, balonun atılma mesafesinin farklılaşması durumunda çarpma anında
 balonu etkileyen kuvvetin değişimini ve balonun atış hızının patlama durumuna etkisini gözlemleyeceğiz.
 # Materyaller (Materials)
-6 tane balon
-Su
-Pürüzsüz ahşap yüzey
-Pürüzlü beton yüzey
+*6 tane balon
+*Su
+*Pürüzsüz ahşap yüzey
+*Pürüzlü beton yüzey
 
 # Yöntem (Prodecure)
 İlk olarak aldığımız su balonlarının içlerini eşit miktarda su ile doldurduk.İçlerini su ile doldurduğumuz balonları sırasıyla pürüzsüz (düz) bir ahşap yüzeye sahip zemine,daha sonra pürüzlü yüzeye sahip beton duvara eşit hızla eşit mesafeden attık.Daha sonra aynı iki yüzeye eşit mesafeden farklı hızlarla iki balon attık.Son olarak da yine aynı yüzeylere farklı uzaklıklardan eşit hızla iki balon attık.Attığımızın balonlardan bazıları patladı,bazıları sağlam kaldığını gözlemledik.
